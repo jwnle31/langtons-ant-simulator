@@ -12,4 +12,4 @@ However, we can extend this to multiple colors by encoding the rules as a string
 For each color in order, we can append 'R' or 'L' to the string to assign the colors a left or right turn.
 By following this step repeatedly, for the classical rule, we would have the string of 'RL'.
 
-In this program, two extra turns, 'U' and 'N', can be inputted where 'U' is a U-turn and 'N' is a no-turn.
+In this program, two extra types of turn, 'U' and 'N', can be inputted where 'U' is a U-turn and 'N' is a no-turn.
